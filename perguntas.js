@@ -1,13 +1,13 @@
 criaCartao(
     'Programação',
-    'O que é algoritmo?',
-    'É uma sequência finita de ações '
+    'O que é um código?',
+    'sistema para cifrar a escrita, tornando-a ininteligível, até que seja decodificada; criptografia '
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital do Brasil?',
-    'A capital do Brasil é brasília'
+    'Qual a capital do Russia?',
+    'A capital do Russia é Moscou'
 )
 
 criaCartao(
