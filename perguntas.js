@@ -12,12 +12,12 @@ criaCartao(
 
 criaCartao(
     'Programação',
-    'O que se faz na programação?',
-    'Cria aplicativos, sistemas, sites e até games'
+    'Qual o conceito de programação?',
+    'Atividade de planejamento, elaboração, escrita e desenvolvimento de programas.'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz gato em Inglês?',
-    'gato em ingles é cat '
+    'Como se diz cachorro em Inglês?',
+    'cachorro em ingles é dog '
 )
